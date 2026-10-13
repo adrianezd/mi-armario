@@ -1,0 +1,12 @@
+{
+  "name": "Mi armario",
+  "short_name": "Armario",
+  "description": "Guarda fotos de tu ropa, combínalas en looks y elige qué ponerte cada día en un toque.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6efe6",
+  "theme_color": "#f6efe6",
+  "lang": "es",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
